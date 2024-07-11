@@ -1,0 +1,27 @@
+[
+  {
+    "variety": "Bed",
+    "image": "Bed.jpg",
+    "id": "32dc"
+  },
+  {
+    "variety": "Sofa",
+    "image": "Sofa.jpg",
+    "id": "b885"
+  },
+  {
+    "variety": "Table",
+    "image": "Table.jpg",
+    "id": "02a2"
+  },
+  {
+    "variety": "Chair",
+    "image": "Chair.jpg",
+    "id": "4bf7"
+  },
+  {
+    "variety": "Offers",
+    "image": "Offers.jpg",
+    "id": "35d2"
+  }
+]
